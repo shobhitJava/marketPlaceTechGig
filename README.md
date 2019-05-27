@@ -21,3 +21,6 @@ Network is up now
 # Install and Instantiate chaincode
 
 4) From the Java project(MarketPlaceInfra). Inside the package "org.hyperledger.fabric.mp", there are 11 files to install and instantiate the chaincode on 3 different channels. It will install and instantiate chaincode on the nodes according to the channel they have joined.
+
+# MarketPlaceJavaApp
+It is the web appliction created for each 8 nodes in marketplace. Please compile and build the code by getting jars files. Deploy it in web container to start interacting with blockchain network
