@@ -9,7 +9,7 @@ It includes a java war project for running the middleware application, which con
 It includes the initial drafted chaincode file for all the process taking place in the marketplace scenario. 
 
 
-# To start the blockchian network
+# To start the blockchain network
 
 Note- Ensure to have prerequisite completed for hyperledger fabric
 1)copy the marketplace_solution content in a folder on linux server 
@@ -20,5 +20,4 @@ Network is up now
 
 # Install and Instantiate chaincode
 
-4) From the Java project(MarketPlaceInfra). Inside the package "org.hyperledger.fabric.mp", there are 11 files to install and instantiate the chaincode
-on 3 different channel. It will install chaincode on the nodes according to the channel they have joined.
+4) From the Java project(MarketPlaceInfra). Inside the package "org.hyperledger.fabric.mp", there are 11 files to install and instantiate the chaincode on 3 different channels. It will install and instantiate chaincode on the nodes according to the channel they have joined.
